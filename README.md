@@ -16,7 +16,7 @@ This is a convenience package that bundles the current release of **[LevelUP](ht
 Use this package to avoid having to explicitly install LevelDOWN-Mobile when you want to use LevelDOWN-Mobile with LevelUP.
 
 ```js
-var level = require('level-mobile)
+var level = require('level-mobile')
 
 // 1) Create our database, supply location and options.
 //    This will create or open the underlying LevelDB store.
