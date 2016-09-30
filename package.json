@@ -37,7 +37,7 @@
     "leveldown-mobile": "~1.0.6"
   },
   "devDependencies": {
-    "tape": "~4.0.0"
+    "tape": "~4.6.2"
   },
   "scripts": {
     "test": "node ./test.js"
