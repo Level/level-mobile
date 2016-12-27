@@ -33,7 +33,7 @@
   ],
   "main": "level-mobile.js",
   "dependencies": {
-    "level-packager": "~1.1.0",
+    "level-packager": "~1.2.1",
     "leveldown-mobile": "~1.0.6"
   },
   "devDependencies": {
