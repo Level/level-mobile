@@ -1,6 +1,8 @@
 level-mobile
 ===========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Level/level-mobile.svg)](https://greenkeeper.io/)
+
 **Note. This is a work in progress. Use at own risk**
 
 <img alt="LevelDB Logo" height="100" src="http://leveldb.org/img/logo.svg">
