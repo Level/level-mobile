@@ -1,13 +1,8 @@
-level-mobile
-===========
+# level-mobile
 
-**Note. This is a work in progress. Use at own risk**
+**This project has been abandoned. There will be no further releases. If you wish to revive `level-mobile`, please open an issue in [`Level/community`](https://github.com/Level/community) to discuss a way forward. Thank you! :heart:**
 
-<img alt="LevelDB Logo" height="100" src="http://leveldb.org/img/logo.svg">
-
-**Fast & simple storage - a Node.js-style LevelDB wrapper**
-
-[![NPM](https://nodei.co/npm/level-mobile.png)](https://nodei.co/npm/level-mobile/)
+---
 
 [![Build Status](https://secure.travis-ci.org/Level/level-mobile.png)](http://travis-ci.org/Level/level-mobile)
 
