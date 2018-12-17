@@ -1,7 +1,7 @@
 {
   "name": "level-mobile",
   "description": "Fast & simple storage - a Node.js-style LevelDB wrapper (a convenience package bundling LevelUP & LevelDOWN-Mobile)",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/Level/level-mobile.git"
